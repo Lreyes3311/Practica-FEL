@@ -1,0 +1,14 @@
+C:\Users\lreye\OneDrive\Escritorio\Practica FEL\C#\facturas\bin\Debug\net7.0\facturas.exe
+C:\Users\lreye\OneDrive\Escritorio\Practica FEL\C#\facturas\bin\Debug\net7.0\facturas.deps.json
+C:\Users\lreye\OneDrive\Escritorio\Practica FEL\C#\facturas\bin\Debug\net7.0\facturas.runtimeconfig.json
+C:\Users\lreye\OneDrive\Escritorio\Practica FEL\C#\facturas\bin\Debug\net7.0\facturas.dll
+C:\Users\lreye\OneDrive\Escritorio\Practica FEL\C#\facturas\bin\Debug\net7.0\facturas.pdb
+C:\Users\lreye\OneDrive\Escritorio\Practica FEL\C#\facturas\obj\Debug\net7.0\facturas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lreye\OneDrive\Escritorio\Practica FEL\C#\facturas\obj\Debug\net7.0\facturas.AssemblyInfoInputs.cache
+C:\Users\lreye\OneDrive\Escritorio\Practica FEL\C#\facturas\obj\Debug\net7.0\facturas.AssemblyInfo.cs
+C:\Users\lreye\OneDrive\Escritorio\Practica FEL\C#\facturas\obj\Debug\net7.0\facturas.csproj.CoreCompileInputs.cache
+C:\Users\lreye\OneDrive\Escritorio\Practica FEL\C#\facturas\obj\Debug\net7.0\facturas.dll
+C:\Users\lreye\OneDrive\Escritorio\Practica FEL\C#\facturas\obj\Debug\net7.0\refint\facturas.dll
+C:\Users\lreye\OneDrive\Escritorio\Practica FEL\C#\facturas\obj\Debug\net7.0\facturas.pdb
+C:\Users\lreye\OneDrive\Escritorio\Practica FEL\C#\facturas\obj\Debug\net7.0\facturas.genruntimeconfig.cache
+C:\Users\lreye\OneDrive\Escritorio\Practica FEL\C#\facturas\obj\Debug\net7.0\ref\facturas.dll
